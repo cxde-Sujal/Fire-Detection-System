@@ -23,10 +23,25 @@ In forests, fires can be started by humans or by natural causes. Naturally, fire
 + Video data contains test and train data in video format.
 + Test_video contains 3 videos.
 + Train_video contains 12 videos consisting of fire with smoke, only fire, only smoke, no fire videos.
-+ 
+ 
 ---
 
 ### Project WorkFlow
 ![Project WorkFlow](./Project-Workflow-Diagram.jpg)
++ Gathering Data
++ Data Preprocessing
++ Researching the model that suits best on the dataset
++ Training and testing the model
++ Evaluation based on metrics
+  
+---
+
+### Analysis Based On Training
+![Implementation Analysis ](./Implementation.jpg)
+Different machine learning algorithms metrics based on their training and testing
+
+---
+
+
 
 
